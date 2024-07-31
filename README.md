@@ -1,3 +1,5 @@
+<p style="text-align: center;">Привет, меня зовут Максим и я Аналитик данных!</p>
+
 - 👋 Hi, I’m @another-rel and my real name is Max
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning at karpov.courses
