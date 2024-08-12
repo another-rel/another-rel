@@ -66,6 +66,10 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 <!--- |[Сборник задач PostgreSQL](ссылка)|описание | стек |
 |[Сборник задач по обработке данных на Python](ссылка)|описание | стек | --->
 
+<!-- Бейджик взят отсюда: https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic?tab=readme-ov-file -->
+
+<br>
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_dark"/></div>
 
 <!---
 another-rel/another-rel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
