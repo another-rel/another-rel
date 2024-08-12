@@ -1,5 +1,13 @@
 <div align="center"><img src="https://github.com/another-rel/another-rel/blob/main/assets/header_portfolio.gif?raw=true"/></div>
 
+<!--
+Анимированные подписи к портфолио сделаны на сайте Readme Typing SVG
+Ссылка на пресет:
+https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.
+Размер шрифта для заголовка - 24 px
+Размер шрифта для подзаголовков - 16 px
+-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C7DFEE&center=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.)](https://git.io/typing-svg)
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5%3A)](https://git.io/typing-svg)
@@ -9,7 +17,6 @@
 <li> В свободное время осваиваю электрогитару, изучаю шведский язык и играю в видеоигры.
 <li> Со мной можно связаться в Telegram: @another_rel
 </ul>
-
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8%3A)](https://git.io/typing-svg)
@@ -28,6 +35,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%3A)](https://git.io/typing-svg)
 <br>
 
+<!-- На будущее, иконки лежат тут: https://simpleicons.org/ -->
+<!-- Инструкция к использованию: https://github.com/irfaan008/simple-skill-icons -->
+
 <p align="center">
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=python" title="Python" alt="Python"/></a>
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=pandas" title="Pandas" alt="Pandas"/></a>
@@ -44,18 +54,17 @@
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=gitlab" title="GitLab" alt="GitLab"/></a>&nbsp;
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=github&theme=dark" title="GitHub" alt="GitHub"/></a>&nbsp;
 </p>
-
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%3A)](https://git.io/typing-svg) [⚒ **Work In Progress** ⚒]
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|[название](ссылка)|описание | стек |
-|[название](ссылка)|описание | стек |
-|[название](ссылка)|описание | стек |
-|[название](ссылка)|описание | стек |
-|[название](ссылка)|описание | стек |
+|[Анализ данных мобильного приложения (мессенджер + лента новостей)](ссылка)|Создание базового аналитического контура для оценки эффективности работы мобильного приложения и последующее исследование данных|ClickHouse, Redash, Python, pandas, Numpy, SciPy, matplotlib, Seaborn, Superset, Apache Airflow, Telegram Bot API, Git, GitLab|
+|[Исследование данных мобильной игры](ссылка)|Оценка эффективности акционных предложений и тематических событий|ClickHouse, Redash, Python, pandas, Numpy, SciPy, matplotlib, Seaborn, Git, GitLab|
+|[Исследование данных e-learning платформы](ссылка)|Оценка метрик качества предлагаемых платформой курсов и качественный анализ аудитории|Python, pandas, Numpy, SciPy, matplotlib, Seaborn|
+<!--- |[Сборник задач PostgreSQL](ссылка)|описание | стек |
+|[Сборник задач по обработке данных на Python](ссылка)|описание | стек | --->
 
 
 <!---
