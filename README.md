@@ -39,7 +39,7 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 
 <p align="center">
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=python" title="Python" alt="Python"/></a>
-  <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=pandas" title="Pandas" alt="Pandas"/></a>
+  <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=pandas&theme=dark" title="Pandas" alt="Pandas"/></a>
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=numpy" title="NumPy" alt="NumPy"/></a>&nbsp;
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=scipy" title="SciPy" alt="SciPy"/></a>&nbsp;
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=plotly" title="Plotly" alt="Plotly"/></a>&nbsp;&nbsp;
