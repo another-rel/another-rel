@@ -7,16 +7,27 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 Размер шрифта для заголовка - 24 px
 Размер шрифта для подзаголовков - 16 px
 -->
+
 <br>
+<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C7DFEE&center=true&vCenter=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
-  <source media="(prefers-color-scheme:light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3C4EFF&center=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3C4EFF&center=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
+  <source media="(prefers-color-scheme:light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3C4EFF&center=true&vCenter=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3C4EFF&center=true&vCenter=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
 </picture>
+</div>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5%3A)](https://git.io/typing-svg)
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5%3A">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3C4EFF&vCenter=true&width=435&height=16&lines=%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5%3A">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3C4EFF&vCenter=true&width=435&height=16&lines=%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5%3A">
+</picture>
+</div>
+<br>
+
 <ul>
 <li> С детства люблю изучать информацию и формировать на ее основе полезные и объективные рекомендации. Лучшее чувство на свете - видеть как мои рекомендации помогают людям.
 <li> Имею техническое, IT-шное и лингвистическое образование. Закончил курсы аналитики данных в школе karpov.courses (Дата Аналитика, Симулятор аналитика) и активно продолжаю развиваться в данном направлении.
@@ -24,8 +35,14 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 </ul>
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8%3A)](https://git.io/typing-svg)
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8%3A">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3C4EFF&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8%3A">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3C4EFF&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8%3A">
+</picture>
+</div>
+<br>
 
 <ul>
 <li> Написание ad-hoc запросов (ClickHouse, PostgreSQL, вложенные запросы, оконные функции, условные конструкции, CTE).
@@ -37,8 +54,13 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 </ul>
 
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%3A)](https://git.io/typing-svg)
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%3A">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3C4EFF&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%3A">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3C4EFF&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%3A">
+</picture>
+</div>
 <br>
 
 <!-- На будущее, иконки лежат тут: https://simpleicons.org/ -->
@@ -60,9 +82,16 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=gitlab" title="GitLab" alt="GitLab"/></a>&nbsp;
   <a href="#"><img src="https://simpleskill.icons.workers.dev/svg?i=github&theme=dark" title="GitHub" alt="GitHub"/></a>&nbsp;
 </p>
-<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%3A)](https://git.io/typing-svg) [⚒ **Work In Progress** ⚒]
+<br>
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%3A">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3C4EFF&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%3A">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3C4EFF&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%3A">
+</picture>
+</div>
+<br>
 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
@@ -78,12 +107,10 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_light">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_light">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github">
 </picture>
 </div>
-
-<!---<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_dark"/></div>--->
 
 <!---
 another-rel/another-rel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
