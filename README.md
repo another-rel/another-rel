@@ -7,15 +7,21 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 Размер шрифта для заголовка - 24 px
 Размер шрифта для подзаголовков - 16 px
 -->
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C7DFEE&center=true&vCenter=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3C4EFF&center=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C7DFEE&center=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.)](https://git.io/typing-svg)
 ---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9E%D0%B1%D0%BE+%D0%BC%D0%BD%D0%B5%3A)](https://git.io/typing-svg)
 <ul>
 <li> С детства люблю изучать информацию и формировать на ее основе полезные и объективные рекомендации. Лучшее чувство на свете - видеть как мои рекомендации помогают людям.
 <li> Имею техническое, IT-шное и лингвистическое образование. Закончил курсы аналитики данных в школе karpov.courses (Дата Аналитика, Симулятор аналитика) и активно продолжаю развиваться в данном направлении.
 <li> В свободное время осваиваю электрогитару, изучаю шведский язык и играю в видеоигры.
 </ul>
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7DFEE&vCenter=true&width=435&height=16&lines=%D0%9C%D0%BE%D0%B8+%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8%3A)](https://git.io/typing-svg)
@@ -68,7 +74,14 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 <!-- Бейджик взят отсюда: https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic?tab=readme-ov-file -->
 
 <br>
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_dark"/></div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_light">
+</picture>
+</div>
+
+<!---<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_dark"/></div>--->
 
 <!---
 another-rel/another-rel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
