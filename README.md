@@ -10,6 +10,7 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C7DFEE&center=true&vCenter=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
+  <source media="(prefers-color-scheme:light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3C4EFF&center=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3C4EFF&center=true&width=1000&height=48&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%2C+%D1%8F+-+%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.">
 </picture>
 
@@ -77,6 +78,7 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_light">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=another-rel&theme=github_light">
 </picture>
 </div>
