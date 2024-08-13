@@ -97,7 +97,7 @@ https://readme-typing-svg.demolab.com/demo/?size=24&color=C7DFEE&center=true&wid
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[Анализ данных мобильного приложения (мессенджер + лента новостей)](ссылка)|Создание базового аналитического контура для оценки эффективности работы мобильного приложения и последующее исследование данных|ClickHouse, Redash, Python, pandas, Numpy, SciPy, matplotlib, Seaborn, Superset, Apache Airflow, Telegram Bot API, Git, GitLab|
-|[Исследование данных мобильной игры](ссылка)|Оценка эффективности акционных предложений и тематических событий|ClickHouse, Redash, Python, pandas, Numpy, SciPy, matplotlib, Seaborn, Git, GitLab|
+|[Исследование данных мобильной игры](https://github.com/another-rel/m-stanovoy_mobile_game_analytics)|Оценка эффективности акционных предложений и тематических событий|ClickHouse, Redash, Python, pandas, Numpy, SciPy, matplotlib, Seaborn, Git, GitLab|
 |[Исследование данных e-learning платформы](ссылка)|Оценка метрик качества предлагаемых платформой курсов и качественный анализ аудитории|Python, pandas, Numpy, SciPy, matplotlib, Seaborn|
 <!--- |[Сборник задач PostgreSQL](ссылка)|описание | стек |
 |[Сборник задач по обработке данных на Python](ссылка)|описание | стек | --->
